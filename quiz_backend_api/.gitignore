@@ -1,0 +1,19 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# macOS files
+.DS_Store
+
+# Environment variables
+.env
+
+# VS Code settings
+.vscode/
+
+# SQLite WAL files (if generated)
+*.db-wal
+*.db-shm
